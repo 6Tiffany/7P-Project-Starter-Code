@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+    font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+    color: orange;
+}
+
+p {
+    color: blue;
+}
+
+.CC{
+    display:none;
+}
+
